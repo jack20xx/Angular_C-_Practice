@@ -61,3 +61,11 @@
 /Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
 /Users/impl/Desktop/study/demo/DatingApp/API/obj/Debug/net7.0/API.csproj.AssemblyReference.cache
 /Users/impl/Desktop/study/demo/DatingApp/API/obj/Debug/net7.0/API.csproj.CopyComplete
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
