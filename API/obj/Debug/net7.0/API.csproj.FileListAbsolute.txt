@@ -70,3 +70,5 @@
 /Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
 /Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
 /Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/Data/UserSeedData.json
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/AutoMapper.dll
+/Users/impl/Desktop/study/demo/DatingApp/API/bin/Debug/net7.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
